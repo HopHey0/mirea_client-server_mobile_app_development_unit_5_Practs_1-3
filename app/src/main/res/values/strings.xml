@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pract_1</string>
+    <!--Note module strings section-->
+    <string name="emptyNoteListHint">У вас пока нет записей\nНажмите + чтобы создать первую</string>
+    <string name="create_note_top_app_bar_string">Новая запись</string>
+    <string name="edit_note_top_app_bar_string">Редактировать запись</string>
+    <string name="write_header_text_field">Заголовок (опционально)</string>
+    <string name="write_body_text_field">Ваша запись...</string>
+    <string name="delete_item">Удалить</string>
+
+    <!--Photo module strings section-->
+    <string name="empty_photo_grid_hint">У вас пока нет фото\nНажмите + чтобы создать первое</string>
+    <string name="share_item">Импортировать</string>
+</resources>
